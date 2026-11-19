@@ -38,7 +38,6 @@ Em **O Herói!**, o jogador atravessa diferentes biomas — passando pela **Vila
 | **Clique Esquerdo** | Atacar / Disparar Flecha |
 | **Mouse** | Navegar nos Menus |
 
-*(Ajuste as teclas acima caso tenha configurado algum atalho diferente no Input do projeto)*
 
 ---
 
