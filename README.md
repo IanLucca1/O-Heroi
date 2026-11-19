@@ -6,8 +6,6 @@
 
 > Jogo de ação e aventura em estilo **2.5D** desenvolvido na **Unreal Engine 4.27**, combinando cenários tridimensionais com personagens e inimigos em *pixel art* (Paper2D).
 
-![Tela Inicial do Jogo](docs/menu.jpg)
-*(Substitua pelo caminho do print do seu menu principal)*
 
 ---
 
